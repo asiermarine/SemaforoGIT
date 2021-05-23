@@ -4,7 +4,7 @@ public class Estudiante extends Persona{
 	int i_Curso;
     	public Estudiante() {
 		i_Edad=25;
-		s_Nombre = "Alberto";
+		s_Nombre = "Francisco";
 		i_Curso = 1;
 	}
 	public void presentarse(){
